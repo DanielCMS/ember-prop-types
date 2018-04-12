@@ -67,7 +67,7 @@
     "ember-addon"
   ],
   "dependencies": {
-    "ember-cli-babel": "^5.1.7",
+    "ember-cli-babel": "^6.6.0",
     "ember-get-config": "0.2.2",
     "ember-string-ishtmlsafe-polyfill": "^1.1.0"
   },
