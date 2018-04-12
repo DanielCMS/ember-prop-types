@@ -69,7 +69,7 @@
   "dependencies": {
     "ember-cli-babel": "^6.6.0",
     "ember-get-config": "git+https://github.com/DanielCMS/ember-get-config.git",
-    "ember-string-ishtmlsafe-polyfill": "2.0.1"
+    "ember-string-ishtmlsafe-polyfill": "git+https://github.com/DanielCMS/ember-string-ishtmlsafe-polyfill.git"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
